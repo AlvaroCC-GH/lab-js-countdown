@@ -44,6 +44,7 @@ function startCountdown() {
 function showToast(message) {
   console.log("showToast called!");
 
+
   // Your code goes here ...
 const toast = document.getElementById("toast")
 
